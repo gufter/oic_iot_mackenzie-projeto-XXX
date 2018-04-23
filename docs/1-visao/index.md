@@ -5,9 +5,9 @@ apresentando os problemas a serem solucionados, as necessidades dos principais e
 
 ## Objetivos
 
-* Desenvolver um Braço Robotico que repita uma sequencias de movimentos.
-* O Robo devera mover uma peca de lugar.
-* Esse robo mostra
+* Desenvolver um Braço Robotico que repita uma sequência de movimentos repetitivos;
+* O Robo deverá mover uma peça pequena de lugar;
+* O projeto irá mostrar um alternativa para o uso do Arduino. 
 * etc.
 
 ## Problema
