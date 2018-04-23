@@ -1,7 +1,7 @@
 
-#Projeto Braço Robótico
+Projeto Braço Robótico
 
-         ##Lista de Materiais
+         Lista de Materiais
          
 -> 1 – Braço comercial em acrílico modelo ARM2;
 -> 4 – Servos motores, modelo SG90;
@@ -17,4 +17,4 @@
 -> 1 – Resistor 330R;
 -> 1 – Resistor 150R;
 -> Fios Jumpers para Arduino;
--> Parafusos;
+-> Parafusos.
