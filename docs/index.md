@@ -1,4 +1,4 @@
-# *Nome do Projeto*
+# *Braço Robotico*
 
 ## Documentos
 * Documentação Hardware
