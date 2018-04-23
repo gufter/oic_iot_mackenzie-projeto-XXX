@@ -1,6 +1,6 @@
-# Documento de Visão do Projeto "NOME DO PROJETO"
+# Documento de Visão do Projeto "Braço Robotico"
 
-Este documento apresenta uma solução de software para o projeto *"NOME DO PROJETO"*, 
+Este documento apresenta uma solução de software para o projeto *"Braço Robotico"*, 
 apresentando os problemas a serem solucionados, as necessidades dos principais envolvidos, o alcance do projeto e as funcionalidades esperadas.
 
 ## Objetivos
