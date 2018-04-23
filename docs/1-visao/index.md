@@ -5,9 +5,9 @@ apresentando os problemas a serem solucionados, as necessidades dos principais e
 
 ## Objetivos
 
-* Objetivo 1
-* Objetivo 2
-* Objetivo 3
+* Desenvolver um Braço Robotico que repita uma sequencias de movimentos.
+* O Robo devera mover uma peca de lugar.
+* Esse robo mostra
 * etc.
 
 ## Problema
