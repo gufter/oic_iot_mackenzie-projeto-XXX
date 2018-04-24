@@ -5,14 +5,15 @@ apresentando os problemas a serem solucionados, as necessidades dos principais e
 
 ## Objetivos
 
-* Desenvolver um Braço Robotico que repita uma sequência de movimentos repetitivos;
+* Desenvolver um Braço Robotico que repita uma sequência de Movimentos Sincronizados;
 * O Robo deverá mover uma peça pequena de lugar;
 * O projeto irá mostrar um alternativa para o uso do Arduino. 
-* etc.
+* O projeto pode ser reproduzido em escala maior 
+
 
 ## Problema
 
-* Descrição do problema: ___
+* Descrição do problema: 
 * Quem é afetado pelo problema: ____
 * Impacto no negócio: ___
 * Benefícios de uma boa solução: ___
@@ -26,36 +27,36 @@ apresentando os problemas a serem solucionados, as necessidades dos principais e
 
 ## Integração com outros sistemas
 
-* Sistema externo 1
-* Sistema externo 2
-* Sistema externo 3
-* etc.
+* Plataforma Mobile
+* Android 
+* IOS
+
  
 ## Interessados
 
-* Tipo de interessado 1
-* Tipo de interessado 2
-* Tipo de interessado 3
-* etc.
+* Fabricas 
+* Escolas 
+
 
 ## Usuários
 
-* Tipo de usuário 1
-* Tipo de usuário 2
+* Engenheiros 
+* ALunos 
 * Tipo de usuário 3
-* etc.
+
 
 ## Funcionalidades do produto
 
-* Funcionalidade 1
-* Funcionalidade 2
-* etc.
+* Capturar uma peca 
+* Levantar 
+* Girar
+* Soltar 
 
 ## Restrições do projeto
 
-* Restrição 1
-* Restrição 2
-* Restrição 3
+* Pecas com peso acima de 500 g
+* Descolamento total  
+* 
 * etc.
 
 ## Protótipos
