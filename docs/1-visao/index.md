@@ -5,15 +5,18 @@ apresentando os problemas a serem solucionados, as necessidades dos principais e
 
 ## Objetivos
 
+O projeto consiste na construção de um braço robótico e de um Software de controle que tem como finalidade a rápida manipulação de peças em um processo de fabricação industrial. 
+
 * Desenvolver um Braço Robotico que repita uma sequência de Movimentos Sincronizados;
-* O Robo deverá mover uma peça pequena de lugar;
-* O projeto irá mostrar um alternativa para o uso do Arduino. 
-* O projeto pode ser reproduzido em escala maior 
+* Software de controle;
+* Rápida manipulação de peças em um processo de fabricação industrial. 
+* O projeto pode ser reproduzido em uma escala maior 
+
 
 
 ## Problema
 
-* Descrição do problema: 
+* Descrição do problema: Agilizar um processo de retirada de material 
 * Quem é afetado pelo problema: ____
 * Impacto no negócio: ___
 * Benefícios de uma boa solução: ___
@@ -55,9 +58,7 @@ apresentando os problemas a serem solucionados, as necessidades dos principais e
 ## Restrições do projeto
 
 * Pecas com peso acima de 500 g
-* Descolamento total  
-* 
-* etc.
+* Deslocamento   
 
 ## Protótipos
 
