@@ -17,9 +17,9 @@ O projeto consiste na construção de um braço robótico e de um Software de co
 ## Problema
 
 * Descrição do problema: Substituir o ser humano em tarefas em que ele não poderia realizar, por causa de suas próprias limitações físicas, ou por envolverem condições desagradáveis ou extremas.
-* Quem é afetado pelo problema: Aspecto fisico e social do  ser humano e a diminuicao no lucro da fabrica 
+* Quem é afetado pelo problema: Aspecto fisico e social do ser humano e a diminuicao no lucro da fabrica 
 * Impacto no negócio: A produtivade da fabrica
-* Benefícios de uma boa solução: tilização eficiente de unidades de produção aumentando produtividade (inexistência de interrupções, etc.), Redução do tempo de preparação da fabricação.Redução do número de acidentes, afastamento do ser humano de locais perigosos para a saúde, redução de horários de trabalh
+* Benefícios de uma boa solução: Utilização eficiente de unidades de produção aumentando a produtividade (inexistência de interrupções, etc.), Redução do tempo de preparação da fabricação.Redução do número de acidentes, afastamento do ser humano de locais perigosos para a saúde, redução de horários de trabalho. 
 
 
 ## Definições, abreviações e outros termos do domínio do problema
@@ -35,19 +35,14 @@ O projeto consiste na construção de um braço robótico e de um Software de co
 * Android 
 * IOS
 
- 
 ## Interessados
 
-* Fabricas 
-* Escolas 
-
-
+* Fabricas Industriais  
+ 
 ## Usuários
 
 * Engenheiros 
-* ALunos 
-* Tipo de usuário 3
-
+* Operarios
 
 ## Funcionalidades do produto
 
