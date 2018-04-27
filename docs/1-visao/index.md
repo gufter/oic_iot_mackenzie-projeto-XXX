@@ -48,10 +48,11 @@ O projeto consiste na construção de um braço robótico e de um Software de co
 
 ## Funcionalidades do produto
 
-* Capturar uma peca 
-* Levantar 
-* Girar
-* Soltar 
+* 1.Capturar uma peca 
+* 2.Levantar 
+* 3.Girar
+* 4.Soltar 
+* 5.Controlar atraves de um dispositivo mobile 
 
 ## Restrições do projeto
 
@@ -60,17 +61,16 @@ O projeto consiste na construção de um braço robótico e de um Software de co
 
 ## Protótipos
 
-### Protótipos para funcionalidade 1
+### Protótipos para funcionalidade 1 e 4
 
-![](proto1.png)
+![](proto1.jpg)
 
-Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
+
 
 ### Protótipos para funcionalidade 2
 
-![](proto2.png)
+![](Funlevantar.jpg)
 
 Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
 
 ### Protótipos para funcionalidade N
-https://mecatronicadozero.wordpress.com/2015/04/11/manipulador-robotico-microcontrolado/
