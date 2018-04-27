@@ -9,3 +9,29 @@
 * Gustavo Fernandes 
 * Marcely Biguzzi Santello
 * Thaynara de Souza Ferreira 
+
+### Status --  Documentação
+
+| Documento                    |Status       |
+|---|---|
+| Documentação do Hardware | Complete    |
+| Documentação da Visão    | Complete    |
+| Requisitos               | In Progress |
+| Casos de Uso             | In Progress |
+| Interface                | Not Started |
+| Protocolos               | Not Started |
+| Modulos de Comunicação   | Not Started |
+
+### Status --  Desenvolvimento do Código 
+
+|Modulos                   |Status       |
+|---|---|
+| Codigo                   | Not Started |
+| Bibliotecas              | Not Started |
+
+### Status --  Software de Controle  
+
+|Modulos                   |Status       |
+|---|---|
+| Codigo                   | Not Started |
+| Bibliotecas              | Not Started |
