@@ -63,7 +63,7 @@ O projeto consiste na construção de um braço robótico e de um Software de co
 
 ### Protótipos para funcionalidade 1 e 4
 
-![](proto1.jpg)
+![](garra-func1.jpg)
 
 
 
@@ -71,6 +71,7 @@ O projeto consiste na construção de um braço robótico e de um Software de co
 
 ![](Funlevantar.jpg)
 
-Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
 
-### Protótipos para funcionalidade N
+
+### Protótipos para funcionalidade 5
+![](control.PNG)
