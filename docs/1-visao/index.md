@@ -1,11 +1,8 @@
 # Documento de Visão do Projeto "Braço Robotico"
 
-Este documento apresenta uma solução de software para o projeto *"Braço Robotico"*, 
-apresentando os problemas a serem solucionados, as necessidades dos principais envolvidos, o alcance do projeto e as funcionalidades esperadas.
+O projeto consiste na construção de um braço robótico e de um Software de controle que tem como finalidade a rápida manipulação de peças em um processo de fabricação industrial. 
 
 ## Objetivos
-
-O projeto consiste na construção de um braço robótico e de um Software de controle que tem como finalidade a rápida manipulação de peças em um processo de fabricação industrial. 
 
 * Desenvolver um Braço Robotico que repita uma sequência de Movimentos Sincronizados;
 * Software de controle mobile;
