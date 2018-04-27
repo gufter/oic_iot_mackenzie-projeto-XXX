@@ -45,7 +45,7 @@ O projeto consiste na construção de um braço robótico e de um Software de co
 
 ## Funcionalidades do produto
 
-* 1.Capturar uma peca 
+* 1.Capturar 
 * 2.Levantar 
 * 3.Girar
 * 4.Soltar 
