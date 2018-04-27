@@ -71,4 +71,6 @@ O projeto consiste na construção de um braço robótico e de um Software de co
 
 
 ### Protótipos para funcionalidade 5
+![](control.png)
+
 ![](control.PNG)
