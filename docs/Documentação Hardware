@@ -1,9 +1,12 @@
      
-  Projeto Braço Robótico
+# Documentação do Hardware 
 
-    
- * Lista de Materiais
-         
+O projeto consiste na construção de um braço robótico e de um Software de controle que tem como finalidade a rápida manipulação de peças em um processo de fabricação industrial. 
+
+## Projeto Braço Robótico
+
+## Lista de Materiais
+          
 -> 1 – Braço comercial em acrílico modelo ARM2;
 -> 4 – Servos motores, modelo SG90;
 -> 4 – Potenciômetros 100 k;
