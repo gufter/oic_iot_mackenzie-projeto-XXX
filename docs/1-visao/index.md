@@ -18,14 +18,6 @@ O projeto consiste na construção de um braço robótico e de um Software de co
 * Impacto no negócio: A produtividade da fabrica
 * Benefícios de uma boa solução: Utilização eficiente de unidades de produção aumentando a produtividade (inexistência de interrupções, etc.), Redução do tempo de preparação da fabricação.Redução do número de acidentes, afastamento do ser humano de locais perigosos para a saúde, redução de horários de trabalho 
 
-
-## Definições, abreviações e outros termos do domínio do problema
-
-* Definição 1
-* Definição 2
-* Definição 3
-* etc.
-
 ## Integração com outros sistemas
 
 * Plataforma Mobile
