@@ -10,7 +10,7 @@
 * Marcely Biguzzi Santello
 * Thaynara de Souza Ferreira 
 
-### Status --  Documentação
+###  Documentação
 
 | Documento                    |Status       |
 |---|---|
@@ -22,14 +22,14 @@
 | Protocolos               | Not Started |
 | Modulos de Comunicação   | Not Started |
 
-### Status --  Desenvolvimento do Código 
+###  Desenvolvimento do Código 
 
 |Modulos                   |Status       |
 |---|---|
 | Codigo                   | Not Started |
 | Bibliotecas              | Not Started |
 
-### Status --  Software de Controle  
+### Software de Controle  
 
 |Modulos                   |Status       |
 |---|---|
