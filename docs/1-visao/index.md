@@ -68,9 +68,10 @@ O projeto consiste na construção de um braço robótico e de um Software de co
 
 ![](Funlevantar.jpg)
 
-
+### Protótipos para funcionalidade 3
+![]4dof-robot.jpg
 
 ### Protótipos para funcionalidade 5
-![](control.png)
+
 
 ![](control.PNG)
