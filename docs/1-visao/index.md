@@ -1,4 +1,4 @@
-# Documento de Visão do Projeto "Braço Robotico"
+# Documento de Visão do Projeto "Braço Robótico"
 
 O projeto consiste na construção de um braço robótico e de um Software de controle que tem como finalidade a rápida manipulação de peças em um processo de fabricação industrial. 
 
@@ -69,7 +69,7 @@ O projeto consiste na construção de um braço robótico e de um Software de co
 ![](Funlevantar.jpg)
 
 ### Protótipos para funcionalidade 3
-![]4dof-robot.jpg
+![](4dof-robot.jpg)
 
 ### Protótipos para funcionalidade 5
 
